@@ -1,0 +1,14 @@
+{
+  "modid": "SlayTheSpire2Mod",
+  "name": "SlayTheSpire2Mod",
+  "author_list": [
+    "JULIUS"
+  ],
+  "description": "SlayTheSpire2Mod。",
+  "version": "0.0.1",
+  "sts_version": "3-9-2026",
+  "mts_version": "3.30.3",
+  "dependencies": [
+    "basemod"
+  ]
+}

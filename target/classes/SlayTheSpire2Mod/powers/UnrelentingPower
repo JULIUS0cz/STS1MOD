@@ -1,0 +1,56 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package SlayTheSpire2Mod.powers;
+
+import com.megacrit.cardcrawl.powers.AbstractPower;
+import com.megacrit.cardcrawl.actions.utility.UseCardAction;
+import com.megacrit.cardcrawl.cards.AbstractCard;
+import com.megacrit.cardcrawl.cards.AbstractCard.CardType;
+import com.megacrit.cardcrawl.core.AbstractCreature;
+import com.megacrit.cardcrawl.core.CardCrawlGame;
+import com.megacrit.cardcrawl.localization.PowerStrings;
+
+
+import SlayTheSpire2Mod.helpers.ModHelper;
+
+public class UnrelentingPower extends AbstractPower {
+   public static final String POWER_ID = ModHelper.FormatID("Unrelenting");
+   private static final PowerStrings powerStrings;
+   public static final String NAME;
+   public static final String[] DESCRIPTIONS;
+
+   public UnrelentingPower(AbstractCreature owner) {
+      this.name = NAME;
+      this.ID = POWER_ID;
+      this.owner = owner;
+      this.amount = -1;
+      this.description = DESCRIPTIONS[0];
+      this.loadRegion("Unrelenting");
+   }
+
+   public void updateDescription() {
+      this.description = DESCRIPTIONS[1];
+   }
+
+
+   
+
+   public void onCardDraw(AbstractCard card) {
+      if (card.type == CardType.SKILL) {
+         card.setCostForTurn(-9);
+      }
+
+   }
+
+   public void onAfterUseCard(AbstractCard card, UseCardAction action) {
+      if (card.type == CardType.ATTACK) {
+
+      }
+
+   }
+
+   static {
+      powerStrings = CardCrawlGame.languagePack.getPowerStrings("Unrelenting");
+      NAME = powerStrings.NAME;
+      DESCRIPTIONS = powerStrings.DESCRIPTIONS;
+   }
+}

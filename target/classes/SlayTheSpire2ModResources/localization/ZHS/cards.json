@@ -1,0 +1,237 @@
+{
+    "SlayTheSpire2Mod:Strike": {
+        "NAME": "打击",
+        "DESCRIPTION": "造成 !D! 点伤害",
+        "UPGRADE_DESCRIPTION": " 固有 。 NL 造成 !D! 点伤害"
+    },
+    "SlayTheSpire2Mod:BreakThrough": {
+        "NAME": "突破",
+        "DESCRIPTION": "失去 1 点生命。 NL 对所有敌人造成 !D! 点伤害。",
+        "UPGRADE_DESCRIPTION": "失去 1 点生命。 NL 对所有敌人造成 !D! 点伤害。"
+    },
+    "SlayTheSpire2Mod:SetUpStrike": {
+        "NAME": "预备打击",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 在本回合获得 !M! 点力量。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 在本回合获得 !M! 点力量。"
+    },
+    "SlayTheSpire2Mod:MoltenFist": {
+        "NAME": "熔融之拳",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 将该敌人的 易伤 层数翻倍。 NL 消耗",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 将该敌人的 易伤 层数翻倍。 NL 消耗"
+    },
+    "SlayTheSpire2Mod:Cinder": {
+        "NAME": "余烬",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 消耗你的抽牌堆顶部的牌。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 消耗你的抽牌堆顶部的牌。"
+    },
+    "SlayTheSpire2Mod:Tremble": {
+        "NAME": "战栗",
+        "DESCRIPTION": "给予 2 层 易伤 。",
+        "UPGRADE_DESCRIPTION": "给予 3 层 易伤 。"
+    },
+    "SlayTheSpire2Mod:BloodWall": {
+        "NAME": "血墙",
+        "DESCRIPTION": "失去 2 点生命 。 NL 获得 !B! 点 格挡 。",
+        "UPGRADE_DESCRIPTION": "失去 2 点生命 。 NL 获得 !B! 点 格挡 。"
+    },
+    "SlayTheSpire2Mod:Bully": {
+        "NAME": "欺凌",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 该敌人身上每有一层易伤就额外造成 2 点伤害。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 该敌人身上每有一层易伤就额外造成 3 点伤害。"
+    },
+    "SlayTheSpire2Mod:Spite": {
+        "NAME": "怨恨",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 如果你在本回合失去过生命值，则抽 1 张牌。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果你在本回合失去过生命值，则抽 1 张牌。"
+    },
+    "SlayTheSpire2Mod:AshenStrike": {
+        "NAME": "灰烬打击",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 你的消耗牌堆中每有一张牌，伤害增加3。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你的消耗牌堆中每有一张牌，伤害增加4。"
+    },
+    "SlayTheSpire2Mod:Dismantle": {
+        "NAME": "拆卸",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有易伤状态，则攻击两次。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果敌人有易伤状态，则攻击两次。"
+    },
+    "SlayTheSpire2Mod:Pillage": {
+        "NAME": "劫掠",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 抽牌直到你抽到一张非攻击牌。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 抽牌直到你抽到一张非攻击牌。"
+    },
+    "SlayTheSpire2Mod:Unrelenting": {
+        "NAME": "无情猛攻",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 你打出的下一张攻击牌耗能变成0费。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你打出的下一张攻击牌耗能变成0费。"
+    },
+    "SlayTheSpire2Mod:Grapple": {
+        "NAME": "擒拿",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 当你在本回合获得格挡时，对该敌人造成 !M! 点伤害",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 当你在本回合获得格挡时，对该敌人造成 !M! 点伤害"
+    },
+    "SlayTheSpire2Mod:FightMe": {
+        "NAME": "与我一战！",
+        "DESCRIPTION": "造成 !D! 点伤害两次。 NL 获得 2 点力量。 NL 该敌人获得 1 点力量。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次。 NL 获得 3 点力量。 NL 该敌人获得 1 点力量。"
+    },
+    "SlayTheSpire2Mod:HowlFromBeyond": {
+        "NAME": "彼岸咆哮",
+        "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 在你的回合开始时，从消耗牌堆将此牌打出。",
+        "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 在你的回合开始时，从消耗牌堆将此牌打出。"
+    },
+    "SlayTheSpire2Mod:Stomp": {
+        "NAME": "踩踏",
+        "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 你在本回合每打出过一张攻击牌，其耗能减少 1 点。",
+        "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 你在本回合每打出过一张攻击牌，其耗能减少 1 点。"
+    },
+    "SlayTheSpire2Mod:PerfectedStrike2": {
+        "NAME": "完美打击2",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+2。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 你每有一张名字中有 打击 的牌，伤害+3。"
+    },
+    "SlayTheSpire2Mod:Dominate": {
+        "NAME": "主宰",
+        "DESCRIPTION": "敌人身上每有一层易伤，就获得一点力量。 NL 消耗",
+        "UPGRADE_DESCRIPTION": "敌人身上每有一层易伤，就获得一点力量。"
+    },
+    "SlayTheSpire2Mod:EvilEye": {
+        "NAME": "邪眼",
+        "DESCRIPTION": "获得 !B! 点格挡。 NL 如果你在本回合消耗过卡牌，则额外获得 !B! 点格挡。",
+        "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 如果你在本回合消耗过卡牌，则额外获得 !B! 点格挡。"
+    },
+    "SlayTheSpire2Mod:ForgottenRitual": {
+        "NAME": "被遗忘的仪式",
+        "DESCRIPTION": "如果你在本回合消耗过卡牌，则获得 [R] [R] [R] 。",
+        "UPGRADE_DESCRIPTION": "如果你在本回合消耗过卡牌，则获得 [R] [R] [R] [R] 。"
+    },
+    "SlayTheSpire2Mod:Taunt": {
+        "NAME": "挑衅",
+        "DESCRIPTION": "获得 !B! 点格挡 NL 给予 !M! 层易伤。",
+        "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 NL 给予 !M! 层易伤。"
+    },
+    "SlayTheSpire2Mod:ExpectAFight": {
+        "NAME": "跃跃欲试",
+        "DESCRIPTION": "你的手牌中每有一张攻击牌，就会获得 [R] 。",
+        "UPGRADE_DESCRIPTION": "你的手牌中每有一张攻击牌，就会获得 [R] 。"
+    },
+    "SlayTheSpire2Mod:DrumOfBattle": {
+        "NAME": "战鼓",
+        "DESCRIPTION": "抽 !M! 张牌。 NL 在你的回合开始时，消耗你抽牌堆顶部的牌。",
+        "UPGRADE_DESCRIPTION": "抽 !M! 张牌。 NL 在你的回合开始时，消耗你抽牌堆顶部的牌。"
+    },
+    "SlayTheSpire2Mod:Inferno": {
+        "NAME": "狱火",
+        "DESCRIPTION": "在你的回合开始时，失去 1 点生命。 NL 每当你在你的回合内失去生命时，对所有敌人造成 !M! 点伤害。",
+        "UPGRADE_DESCRIPTION": "在你的回合开始时，失去 1 点生命。 NL 每当你在你的回合内失去生命时，对所有敌人造成 !M! 点伤害。"
+    },
+    "SlayTheSpire2Mod:Juggling": {
+        "NAME": "杂耍",
+        "DESCRIPTION": "将你在本回合打出的第三张攻击牌的复制品加入你的手牌。",
+        "UPGRADE_DESCRIPTION": "固有 NL 将你在本回合打出的第三张攻击牌的复制品加入你的手牌。"
+    },
+    "SlayTheSpire2Mod:StoneArmor": {
+        "NAME": "岩石铠甲",
+        "DESCRIPTION": "获得 !M! 层覆甲。",
+        "UPGRADE_DESCRIPTION": "获得 !M! 层覆甲。"
+    },
+    "SlayTheSpire2Mod:Vicious": {
+        "NAME": "凶恶",
+        "DESCRIPTION": "每当你给予易伤时，抽 !M! 张牌。",
+        "UPGRADE_DESCRIPTION": "每当你给予易伤时，抽 !M! 张牌。"
+    },
+    "SlayTheSpire2Mod:Stampede": {
+        "NAME": "惊逃",
+        "DESCRIPTION": "在你的回合结束时，随机打出你手牌中的 1 张攻击牌攻击随机敌人。",
+        "UPGRADE_DESCRIPTION": "在你的回合结束时，随机打出你手牌中的 1 张攻击牌攻击随机敌人。"
+    },
+    "SlayTheSpire2Mod:PactsEnd": {
+        "NAME": "契约终结",
+        "DESCRIPTION": "只有你的消耗牌堆拥有大于等于 !M! 张牌的时候才能被打出。 NL 对所有敌人造成 !D! 点伤害。",
+        "UPGRADE_DESCRIPTION": "只有你的消耗牌堆拥有大于等于 !M! 张牌的时候才能被打出。 NL 对所有敌人造成 !D! 点伤害。"
+    },
+    "SlayTheSpire2Mod:Conflagration": {
+        "NAME": "焚烧",
+        "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 你在本回合每打出过一张其它攻击牌，这张牌的伤害就提升 !M! 点。",
+        "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 你在本回合每打出过一张其它攻击牌，这张牌的伤害就提升 !M! 点。"
+    },
+    "SlayTheSpire2Mod:Thrash": {
+        "NAME": "痛殴",
+        "DESCRIPTION": "造成 !D! 点伤害两次。 NL 消耗你的手牌中的随机一张攻击牌，并将它的伤害添加给这张牌。",
+        "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 消耗你的手牌中的随机一张攻击牌，并将它的伤害添加给这张牌。"
+    },
+    "SlayTheSpire2Mod:TearAsunder": {
+        "NAME": "扯碎",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 在本场战斗中，你每失去过一次生命值，这张牌就额外造成一次伤害。",
+        "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 在本场战斗中，你每失去过一次生命值，这张牌就额外造成一次伤害。"
+    },
+    "SlayTheSpire2Mod:Mangle": {
+        "NAME": "凌虐",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 敌人在本回合失去 !M! 点力量。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 敌人在本回合失去 !M! 点力量。"
+    },
+    "SlayTheSpire2Mod:Brand": {
+        "NAME": "烙印",
+        "DESCRIPTION": "失去 1 点生命。 NL 消耗 1 张牌 NL 获得 !M! 点力量。",
+        "UPGRADE_DESCRIPTION": "失去 1 点生命。 NL 消耗 1 张牌 NL 获得 !M! 点力量。"
+    },
+    "SlayTheSpire2Mod:Cascade": {
+        "NAME": "倾泻",
+        "DESCRIPTION": "打出你抽牌堆顶部的 X 张牌。",
+        "UPGRADE_DESCRIPTION": "打出你抽牌堆顶部的 X+1 张牌。"
+    },
+    "SlayTheSpire2Mod:PrimalForce": {
+        "NAME": "原始力量",
+        "DESCRIPTION": "将手牌中的所有攻击牌变化为巨石。",
+        "UPGRADE_DESCRIPTION": "将手牌中的所有攻击牌变化为巨石+。"
+    },
+    "SlayTheSpire2Mod:Colossus": {
+        "NAME": "巨像",
+        "DESCRIPTION": "获得 !B! 点格挡。 NL 在本回合中，有易伤状态的敌人对你造成的伤害降低50%。",
+        "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 在本回合中，有易伤状态的敌人对你造成的伤害降低50%。"
+    },
+    "SlayTheSpire2Mod:Stoke": {
+        "NAME": "添柴",
+        "DESCRIPTION": "消耗所有手牌。 NL 然后抽相同数量张牌。 NL 消耗。",
+        "UPGRADE_DESCRIPTION": "消耗所有手牌。 NL 然后抽相同数量张牌。 NL 消耗。"
+    },
+    "SlayTheSpire2Mod:Aggression": {
+        "NAME": "好勇斗狠",
+        "DESCRIPTION": "在你的回合开始时，将你弃牌堆中的一张随机攻击牌放入你的手牌并将其升级。",
+        "UPGRADE_DESCRIPTION": "固有。 NL 在你的回合开始时，将你弃牌堆中的一张随机攻击牌放入你的手牌并将其升级。"
+    },
+    "SlayTheSpire2Mod:CrimsonMantle": {
+        "NAME": "绯红披风",
+        "DESCRIPTION": "在你的回合开始时，失去 1 点生命并获得 !M! 点格挡。",
+        "UPGRADE_DESCRIPTION": "在你的回合开始时，失去 1 点生命并获得 !M! 点格挡。"
+    },
+    "SlayTheSpire2Mod:Cruelty": {
+        "NAME": "残酷",
+        "DESCRIPTION": "有易伤状态的敌人额外收到25%的伤害。",
+        "UPGRADE_DESCRIPTION": "有易伤状态的敌人额外收到50%的伤害。"
+    },
+    "SlayTheSpire2Mod:Hellraiser": {
+        "NAME": "地狱狂徒",
+        "DESCRIPTION": "每当你抽出名字里带有“打击”的牌时，对一名随机敌人打出这张牌。",
+        "UPGRADE_DESCRIPTION": "每当你抽出名字里带有“打击”的牌时，对一名随机敌人打出这张牌。"
+    },
+    "SlayTheSpire2Mod:Pyre": {
+        "NAME": "薪火之源",
+        "DESCRIPTION": "在回合开始时，获得 [R] 。",
+        "UPGRADE_DESCRIPTION": "在回合开始时，获得 [R] [R] 。"
+    },
+    "SlayTheSpire2Mod:Unmovable": {
+        "NAME": "坚定不移",
+        "DESCRIPTION": "翻倍你每回合中第一次从卡牌中获得的格挡。",
+        "UPGRADE_DESCRIPTION": "翻倍你每回合中第一次从卡牌中获得的格挡。"
+    },
+    "SlayTheSpire2Mod:GiantRock": {
+        "NAME": "巨石",
+        "DESCRIPTION": "造成 !D! 点伤害。",
+        "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。"
+    },
+    "SlayTheSpire2Mod:BloodLetting2": {
+        "NAME": "放血2",
+        "DESCRIPTION": "失去 3 点生命 NL 获得 [R] [R] 。",
+        "UPGRADE_DESCRIPTION": "失去 3 点生命 NL 获得 [R] [R] [R] 。"
+    }
+}

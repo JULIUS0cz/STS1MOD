@@ -1,0 +1,43 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package com.megacrit.cardcrawl.powers;
+
+import com.megacrit.cardcrawl.actions.common.ApplyPowerAction;
+import com.megacrit.cardcrawl.cards.DamageInfo;
+import com.megacrit.cardcrawl.core.AbstractCreature;
+import com.megacrit.cardcrawl.core.CardCrawlGame;
+import com.megacrit.cardcrawl.localization.PowerStrings;
+
+public class HpLostPower extends AbstractPower {
+   public static final String POWER_ID = "Rupture";
+   private static final PowerStrings powerStrings;
+   public static final String NAME;
+   public static final String[] DESCRIPTIONS;
+
+   public HpLostPower(AbstractCreature owner, int strAmt) {
+      this.name = NAME;
+      this.ID = "Rupture";
+      this.owner = owner;
+      this.amount = strAmt;
+      this.updateDescription();
+      this.isPostActionPower = true;
+      this.loadRegion("rupture");
+   }
+
+   public void wasHPLost(DamageInfo info, int damageAmount) {
+      if (damageAmount > 0 && info.owner == this.owner) {
+         this.flash();
+         this.addToTop(new ApplyPowerAction(this.owner, this.owner, new StrengthPower(this.owner, this.amount), this.amount));
+      }
+
+   }
+
+   public void updateDescription() {
+      this.description = DESCRIPTIONS[0] + this.amount + DESCRIPTIONS[1];
+   }
+
+   static {
+      powerStrings = CardCrawlGame.languagePack.getPowerStrings("Rupture");
+      NAME = powerStrings.NAME;
+      DESCRIPTIONS = powerStrings.DESCRIPTIONS;
+   }
+}

@@ -1,0 +1,102 @@
+{
+  "SlayTheSpire2Mod:GrapplePower": {
+    "NAME": "擒拿",
+    "DESCRIPTIONS": [
+      "每当你在本回合获得 #y格挡 时，对该敌人造成 #b",
+      " 点伤害。"
+    ]
+  },
+  "SlayTheSpire2Mod:HowlFromBeyondPower": {
+    "NAME": "彼岸咆哮",
+    "DESCRIPTIONS": [
+      " 在你的回合开始时，从消耗牌堆将此牌打出。"
+    ]
+  },
+  "SlayTheSpire2Mod:DrumOfBattlePower": {
+    "NAME": "战鼓",
+    "DESCRIPTIONS": [
+      " 在你的回合开始时，消耗你抽牌堆顶部的牌。"
+    ]
+  },
+  "SlayTheSpire2Mod:InfernoPower": {
+    "NAME": "狱火",
+    "DESCRIPTIONS": [
+      " 在你的回合开始时，失去 #b 点生命",
+      "每当你在你的回合内失去生命时，对所有敌人造成 #b ",
+      " 点伤害。"
+    ]
+  },
+  "SlayTheSpire2Mod:JugglingPower": {
+    "NAME": "杂耍",
+    "DESCRIPTIONS": [
+      "将你在本回合打出的第 #b",
+      "张攻击牌的复制品加入你的手牌。"
+    ]
+  },
+  "SlayTheSpire2Mod:StoneArmorPower": {
+    "NAME": "岩石铠甲",
+    "DESCRIPTIONS": [
+      "回合结束时获得 #b",
+      "点格挡。"
+    ]
+  },
+  "SlayTheSpire2Mod:ViciousPower": {
+    "NAME": "凶恶",
+    "DESCRIPTIONS": [
+      "每当你给予易伤时，抽 #b",
+      "张牌。"
+    ]
+  },
+  "SlayTheSpire2Mod:StampedePower": {
+    "NAME": "惊逃",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，随机打出你手牌中的 #b",
+      "张攻击牌攻击随机敌人。"
+    ]
+  },
+  "SlayTheSpire2Mod:ColossusPower": {
+    "NAME": "巨像",
+    "DESCRIPTIONS": [
+      "有易伤状态的敌人对你造成的伤害降低50%"
+    ]
+  },
+  "SlayTheSpire2Mod:AggressionPower": {
+    "NAME": "好勇斗狠",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，将你弃牌堆中的一张随机攻击牌加入你的手牌并升级。"
+    ]
+  },
+  "SlayTheSpire2Mod:CrimsonMantlePower": {
+    "NAME": "绯红披风",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，失去 #b 点生命",
+      "并获得 #b ",
+      "点格挡。"
+    ]
+  },
+  "SlayTheSpire2Mod:CrueltyPower": {
+    "NAME": "残酷",
+    "DESCRIPTIONS": [
+      "有易伤状态的敌人额外收到25%的伤害。"
+    ]
+  },
+  "SlayTheSpire2Mod:HellraiserPower": {
+    "NAME": "地狱狂徒",
+    "DESCRIPTIONS": [
+      "每当你抽出名字里带有“打击”的牌时，对一名随机敌人打出这张牌。"
+    ]
+  },
+  "SlayTheSpire2Mod:PyrePower": {
+    "NAME": "薪火之源",
+    "DESCRIPTIONS": [
+      "在你的回合开始时获得 ",
+      " 。"
+    ]
+  },
+  "SlayTheSpire2Mod:UnmovablePower": {
+    "NAME": "坚定不移",
+    "DESCRIPTIONS": [
+      "翻倍你每回合中第一次从卡牌中获得的格挡。"
+    ]
+  }
+}
